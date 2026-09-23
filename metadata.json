@@ -1,0 +1,8 @@
+{
+  "name": "Mobile-Use",
+  "description": "Autonomous GUI agent for mobile devices using natural language commands, UI hierarchy perception, multi-agent planning and execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
